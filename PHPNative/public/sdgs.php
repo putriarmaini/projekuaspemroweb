@@ -99,6 +99,8 @@
                         </div>
                     </div>
                 </div>
+                <br>
+                <a class="btn btn-primary btn-lg" href="https://www.instagram.com/sdgs_indonesia/" role="button">Social Media</a>
             </div>
         </div>
 
