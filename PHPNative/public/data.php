@@ -52,9 +52,15 @@
     </nav>
     <!-- Akhir Navbar -->
 
-    <h4>Banyaknya desa yang mengalami pencemaran air</h4>
     <br>
-    <a class="btn btn-light" href="tambah.php" role="button">Tambah Data</a>
+    <div class="col text-center ">
+      <h4>Banyaknya Desa Yang Mengalami Pencemaran air</h4>
+    </div>
+    
+    <br>
+    <a class="btn btn-primary" href="tambah.php" role="button">Tambah Data</a>
+    <br>
+    <br>
 
 
 <!-- awal tabel -->
