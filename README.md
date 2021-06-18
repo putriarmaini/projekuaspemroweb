@@ -1,7 +1,7 @@
 # projekuaspemroweb
 Projek UAS Pemrograman Web, CWS :  Clean Water and Proper Sanitation
 
-Kelompok 20
+Kelompok 20 Kelas B
 
 Shyfanaya Aulia (192410101041)
 
