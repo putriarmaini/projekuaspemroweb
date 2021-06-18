@@ -100,10 +100,10 @@
     </div>
 
     <!-- Akhir Event -->
-<div>
-  <p class="lead">Pentingnya Sanitasi</p>
-  <a class="btn btn-primary btn-lg" href="sanitasi.php" role="button">Kunjungi</a>
-</div>    
+  <div>
+    <p class="lead">Pentingnya Sanitasi</p>
+    <a class="btn btn-primary btn-lg" href="sanitasi.php" role="button">Kunjungi</a>
+  </div>    
 
 
 
