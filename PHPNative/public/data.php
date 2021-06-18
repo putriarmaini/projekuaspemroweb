@@ -57,7 +57,6 @@
       <h4>Banyaknya Desa Yang Mengalami Pencemaran air</h4>
     </div>
     
-    <br>
     <a class="btn btn-primary" href="tambah.php" role="button">Tambah Data</a>
     <br>
     <br>
